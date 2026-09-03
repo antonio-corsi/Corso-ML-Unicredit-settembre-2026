@@ -1,0 +1,13 @@
+id_immobile,citta,zona,distanza_centro_km,distanza_trasporti_m,tipologia,superficie_mq,locali,bagni,piano,piani_edificio,ascensore,anno_costruzione,stato,classe_energetica,riscaldamento,esposizione,balconi,terrazzo,giardino,posto_auto,cantina,spese_condominio_mese,mese_vendita
+string,discrete,discrete,continuous,continuous,discrete,continuous,continuous,continuous,continuous,continuous,discrete,continuous,discrete,discrete,discrete,discrete,continuous,discrete,discrete,discrete,discrete,continuous,continuous
+meta,,,,,,,,,,,,,,,,,,,,,,,
+NUOVO-01,Milano,centro,0.7,262,attico,110,5,2,7,7,no,1957,buono,E,centralizzato,est,0,si,no,nessuno,si,182,10
+NUOVO-02,Roma,semicentro,5.3,559,appartamento,72,2,2,0,5,no,1975,buono,F,centralizzato,sud,2,no,no,box,si,162,8
+NUOVO-03,Torino,periferia,9.2,554,villetta,182,7,3,0,3,no,2001,buono,D,autonomo,ovest,1,no,si,box,no,0,11
+NUOVO-04,Napoli,centro,1.1,316,appartamento,68,3,1,5,7,si,1949,buono,F,autonomo,est,1,no,no,nessuno,si,174,1
+NUOVO-05,Bologna,semicentro,5.0,341,appartamento,47,1,1,2,9,si,1986,ristrutturato,C,centralizzato,doppia,2,no,no,nessuno,no,164,1
+NUOVO-06,Firenze,centro,1.7,819,appartamento,83,4,2,0,6,no,1931,buono,G,centralizzato,doppia,0,no,si,nessuno,no,176,2
+NUOVO-07,Genova,periferia,13.1,3026,appartamento,72,2,2,8,10,si,1952,buono,E,autonomo,sud,1,no,no,box,si,119,3
+NUOVO-08,Bari,periferia,14.3,731,villetta,152,6,3,0,2,no,1948,ristrutturato,D,autonomo,doppia,1,no,si,posto_auto,no,0,12
+NUOVO-09,Padova,semicentro,4.0,1455,appartamento,81,3,2,1,5,si,1987,da_ristrutturare,E,centralizzato,est,0,no,no,nessuno,no,263,4
+NUOVO-10,Palermo,periferia,10.0,833,appartamento,78,3,2,8,8,si,2016,buono,A,centralizzato,doppia,1,no,no,nessuno,si,220,4
